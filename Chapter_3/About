@@ -1,5 +1,6 @@
 Chapter 3 of “C++ Programming by D.S. Malik (8th Edition)” focuses on understanding
 how data is handled through input and output streams in C++. 
+
 This chapter goes beyond the basic use of cin and cout by introducing more advanced
 stream functions and formatting tools that help control how data is read, displayed, 
 and processed. You learn how characters can be inspected, skipped, or returned to the 
@@ -9,6 +10,7 @@ The chapter explains how input errors occur and how they affect the state of the
 It shows how to detect invalid data, clear error flags, and restore the input stream so 
 the program can continue functioning normally. This introduces beginners to the idea of 
 safe and reliable input handling.
+
 A major part of the chapter also focuses on output formatting. Using manipulators such 
 as setprecision, fixed, showpoint, setw, and setfill, you learn how to control decimal 
 places, justify text, set field widths, and format numeric values neatly. 
