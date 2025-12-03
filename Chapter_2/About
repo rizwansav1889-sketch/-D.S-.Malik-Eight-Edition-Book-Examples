@@ -1,0 +1,22 @@
+This folder contains the example programs and the solutions to Exercises 9–23 
+from Chapter 2 of “C++ Programming by D.S. Malik (8th Edition)”.
+This section of the repository focuses on the foundational elements of the 
+C++ language, and the examples here help new learners understand how to apply 
+the concepts practically. The examples demonstrate key topics such as variable 
+declaration, initialization, basic arithmetic operations, increment and 
+decrement operators, simple expressions, and the use of input/output streams. 
+They also show how to use data types effectively, apply type casting when needed,
+and work with named constants and strings.
+
+Exercises 9 to 23 provide hands-on practice of all the essential Chapter 2 concepts. 
+These exercises reinforce how variables behave when their values change, how arithmetic 
+operators follow precedence rules, and how mixed expressions are evaluated when integers
+and floating-point numbers are combined. Students also practice reading input using 
+cin, writing output using cout, and understanding operator behavior such as %, +=, -=, 
+and other compound assignments. A few problems focus on converting between data types,
+formatting output, and applying escape sequences correctly.
+
+Together, the examples and exercises strengthen your understanding of the core building
+blocks of C++. By completing this section, beginners will be able to write clean, basic 
+programs, perform calculations, handle user input, apply operators correctly, and build 
+confidence before moving on to more advanced chapters.
